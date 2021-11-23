@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Projet 14 Openclassrooms | Faites passer une librairie jQuery vers React
+
+Package NPM: https://www.npmjs.com/package/@testing-library/react
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
